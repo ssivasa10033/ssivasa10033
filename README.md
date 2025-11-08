@@ -1,4 +1,3 @@
-# README.md
 
 ## Hey there, I'm Seon!
 ### Computer Science @ Western University 
