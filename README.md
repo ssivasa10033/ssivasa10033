@@ -1,6 +1,6 @@
 
 ## Hey there, I'm Seon!
-### 🚀 Computer Science @ Western University 
+### Computer Science @ Western University 
 
 **About Me:**
 
