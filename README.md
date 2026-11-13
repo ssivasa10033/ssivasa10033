@@ -4,7 +4,9 @@
 
 **About Me:**
 
-I'm passionate about building full-stack applications that solve real-world issues with applications of Machine Learning, AI and finance. Whether it's automating business workflows or modelling financial risk, I love turning complex problems into fast and applicable solutions.
+I'm passionate about software development, full-stack development, and financial technology. I'm currently building software for real businesses, from client-facing platforms to the internal tools that keep day-to-day operations running. Whether I’m implementing data pipelines for risk models or building software for financing brokerages and catering kitchens, I enjoy solving real-world problems through practical and efficient solutions.
+
+Feel free to connect or reach out at ssivasa@uwo.ca
 
 **Contact:** [ssivasa@uwo.ca]
 
